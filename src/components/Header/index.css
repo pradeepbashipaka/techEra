@@ -1,0 +1,12 @@
+.header-container {
+  background-color: #f1f5f9;
+  height: 70px;
+  width: 100%;
+  padding-top: 16px;
+  padding-left: 40px;
+}
+
+.header-image {
+  width: 150px;
+  height: 40px;
+}
